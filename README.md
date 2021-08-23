@@ -5,10 +5,11 @@
 ## Santander Full-Stack bootcamp final project by https://digitalinnovation.one
 
 ## Stack used:
-### Spring Web
-### Spring Data JPA
-### H2 Database
-### Java 11
-### Maven
+
+º Spring Web
+º Spring Data JPA
+º H2 Database
+º Java 8
+º Maven
  
 For Contact : DEV-igordamicosotolani.online
